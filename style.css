@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: rgb(80, 255, 80);
+}
+
+#survey-form{
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+label{
+    font-size: 18px;
+}
